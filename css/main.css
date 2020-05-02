@@ -1,0 +1,172 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+header{
+    padding: 40px 0px 70px 0px;
+    text-align: center;
+}
+
+p{
+    font-family: Helvetica, sans-serif;
+    padding: 10px;
+    margin-top: 5px;
+   
+}
+
+@media (min-width:992px){
+
+    .content-1{
+        width: 30%;
+        float: left;
+        border: 2px solid black;
+        background: grey;
+        margin-left: 30px;
+    }
+    .content-2{
+        width: 30%;
+        float: left;
+        border: 2px solid black;
+        background: grey;
+        margin-left: 30px;
+    }
+    .content-3{
+        width: 30%;
+        float: left;
+        border: 2px solid black;
+        background: grey;
+        margin-left: 20px;
+    }
+    .box1{
+        border-bottom: 2px solid black;
+        border-left: 2px solid black; 
+        float: right; 
+        background-color: rgb(201, 111, 126);
+        font-size: 20px;
+        padding:0px 38px 0px 38px;
+    }
+    .box2{
+        border-bottom: 2px solid black;
+        border-left: 2px solid black; 
+        background-color: rgb(214, 88, 88);
+        float: right; 
+        font-size: 20px;
+        color: white;
+        padding:0px 40px 0px 40px;
+    }
+    .box3{
+        border-bottom: 2px solid black;
+        border-left: 2px solid black; 
+        float: right; 
+        background-color: rgb(219, 182, 140);
+        font-size: 20px;
+        padding:0px 38px 0px 38px;
+    }
+   
+}
+
+@media (min-width:768px) and (max-width:991px){
+
+    .content-1{
+        width: 45%;
+        float: left;
+        border: 2px solid black;
+        background: grey;
+        margin-left: 30px;
+    }
+    .content-2{
+        width: 45%;
+        float: left;
+        border: 2px solid black;
+        background: grey;
+        margin-left: 30px;
+    }
+    .content-3{
+        width: 93%;
+        float: left;
+        border: 2px solid black;
+        background: grey;
+        margin-left: 30px;
+        margin-top: 30px;
+    }
+    .box1{
+        border-bottom: 2px solid black;
+        border-left: 2px solid black; 
+        float: right; 
+        background-color: rgb(201, 111, 126);
+        font-size: 20px;
+        padding:0px 38px 0px 38px;
+    }
+    .box2{
+        border-bottom: 2px solid black;
+        border-left: 2px solid black; 
+        background-color: rgb(214, 88, 88);
+        float: right; 
+        font-size: 20px;
+        color: white;
+        padding:0px 40px 0px 40px;
+    }
+    .box3{
+        border-bottom: 2px solid black;
+        border-left: 2px solid black; 
+        float: right; 
+        background-color: rgb(219, 182, 140);
+        font-size: 20px;
+        padding:0px 38px 0px 38px;
+    }
+
+
+    @media (min-width:767px){
+
+        .content-1{
+            width: 93%;
+            float: left;
+            border: 2px solid black;
+            background: grey;
+            margin-left: 30px;
+        }
+        .content-2{
+            width: 93%;
+            float: left;
+            border: 2px solid black;
+            background: grey;
+            margin-left: 30px;
+            margin-top: 30px;
+        }
+        .content-3{
+            width: 93%;
+            float: left;
+            border: 2px solid black;
+            background: grey;
+            margin-left: 30px;
+            margin-top: 30px;
+        }
+        .box1{
+            border-bottom: 2px solid black;
+            border-left: 2px solid black; 
+            float: right; 
+            background-color: rgb(201, 111, 126);
+            font-size: 20px;
+            padding:0px 38px 0px 38px;
+        }
+        .box2{
+            border-bottom: 2px solid black;
+            border-left: 2px solid black; 
+            background-color: rgb(214, 88, 88);
+            float: right; 
+            font-size: 20px;
+            color: white;
+            padding:0px 40px 0px 40px;
+        }
+        .box3{
+            border-bottom: 2px solid black;
+            border-left: 2px solid black; 
+            float: right; 
+            background-color: rgb(219, 182, 140);
+            font-size: 20px;
+            padding:0px 38px 0px 38px;
+        }
+   
+}
